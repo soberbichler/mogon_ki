@@ -2,4 +2,6 @@
 
 This repository contains Jupyter Notebooks that are being used with Mogon OnDemand (https://docs.hpc.uni-mainz.de/blog/mogon-ondemand/), a web-based platform based on OpenOnDemand that simplifies access to MOGON NHR HPC resources.
 
+The notebooks connect to local LLMs - saved at servers at the University of Mainz - via Ollama, GPU and CPU included.
+
 
