@@ -4,4 +4,5 @@ This repository contains Jupyter Notebooks that are being used with Mogon OnDema
 
 The notebooks connect to local LLMs - saved at servers at the University of Mainz - via Ollama, GPU and CPU included.
 
+The notebooks are used to apply NLP-taks to digitized historical newspapers
 
