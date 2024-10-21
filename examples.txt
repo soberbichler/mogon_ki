@@ -1,0 +1,13 @@
+**Extracted Article 1:**
+
+* **Headline:** (None)
+* **Keyword:** Erdbeben
+
+**Original Text (unverändert):**
+```
+Türkei. ... Das Erdbeben auf der Insel Mitiline (Lesbos) ist ganz furchtbar gewesen.
+```
+**Verification:**
+* **Coherent Unit:** Ja
+* **Keyword Presence:** Ja (Erdbeben)
+* **Completeness:** Ja (kurzer Bericht, vollständig extrahiert)
