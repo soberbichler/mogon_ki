@@ -1,13 +1,27 @@
 **Extracted Article 1:**
 
 * **Headline:** (None)
-* **Keyword:** Erdbeben
+* **Relevant Topics:** Erdbeben
 
-**Original Text (unverändert):**
-```
-Türkei. ... Das Erdbeben auf der Insel Mitiline (Lesbos) ist ganz furchtbar gewesen.
-```
+**Original Text (unchanged):**
+
 **Verification:**
-* **Coherent Unit:** Ja
-* **Keyword Presence:** Ja (Erdbeben)
-* **Completeness:** Ja (kurzer Bericht, vollständig extrahiert)
+* **Coherent Unit:** Yes
+* **Topic Presence:** Yes (Erdbeben)
+* **Completeness:** Yes (short report, completely exracted)
+
+**Explanation**
+* **
+1. What is the decision path?
+2. Which features had the strongest impact?
+3. How confident is this prediction?
+4. What would change the outcome?"""
+
+* ** Logistic Regression
+1. Which coefficients had the largest impact?
+2. How do the features contribute to the probability?
+3. What is the confidence interval?
+
+**Notes
+
+**END OF ARTICLE**
